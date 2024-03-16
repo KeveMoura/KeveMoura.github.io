@@ -1,0 +1,29 @@
+body{
+    background-color: blueviolet;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    color:yellow;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    color:yellow;
+}
+fieldset{
+    text-align: center;
+    background-color:rgb(133, 76, 197);
+    
+}
+div{
+    padding: 10px;
+}
+.center{
+   padding-right: 90px;}
+  button{
+  background-color: yellow;
+  }
